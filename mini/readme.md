@@ -25,6 +25,17 @@ To check weather npm and node are installed use below Commands
 
 [Git] https://git-scm.com/downloads
 
+## 5. Clone and start Project
+
+`git clone https://github.com/satishmd/Dashboard.git`
+
+install requirements `pip install -r requirements.txt`
+
+you can start the project by `python manage.py runserver`
+
+server will run at `http://localhost:8000/`
+
+to activate virtual environment `venv\Scripts\activate.bat`
 
 
 
